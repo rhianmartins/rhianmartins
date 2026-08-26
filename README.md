@@ -111,9 +111,6 @@ I have been working as a designer since 2018 and am currently pursuing a degree 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"     
 />
 
-<br>
-<br>
-
 <img
     align="left"
     alt="Vuejs"
@@ -131,6 +128,7 @@ I have been working as a designer since 2018 and am currently pursuing a degree 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-plain.svg"    
 />
 
+<br>
 <br>
 <br>
 
