@@ -130,7 +130,6 @@ I have been working as a designer since 2018 and am currently pursuing a degree 
 
 <br>
 <br>
-<br>
 
 ### 🚀 Featured Projects
 - [Mobile Interface Design Project](link) – Mobile project.
