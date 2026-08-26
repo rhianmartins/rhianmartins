@@ -110,6 +110,22 @@ I have been working as a designer since 2018 and am currently pursuing a degree 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"     
 />
+<img
+    align="left"
+    alt="Vuejs"
+    title="Vuejs"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"    
+/>
+<img
+    align="left"
+    alt="Vuejs"
+    title="Vuejs"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-plain.svg"    
+/>
 
 <br>
 <br>
