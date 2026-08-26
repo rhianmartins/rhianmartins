@@ -110,6 +110,10 @@ I have been working as a designer since 2018 and am currently pursuing a degree 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"     
 />
+
+<br>
+<br>
+
 <img
     align="left"
     alt="Vuejs"
